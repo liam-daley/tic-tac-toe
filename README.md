@@ -1,6 +1,8 @@
 # Tic Tac Toe
 
-a tic-tac-toe game that:
+Repository used for learning purposes.
+
+A tic-tac-toe game that:
 
 - Lets you play tic-tac-toe,
 - Indicates when a player has won the game,
